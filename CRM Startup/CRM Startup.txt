@@ -1,0 +1,25 @@
+C:\Test\CRM\OrgServiceQuickStart
+	CustomWorkflowActivity
+	Plugin
+	Console app {OrgServiceQuickStart}
+
+C:\Doc\CRM\Dev\PowerApps-Samples.txt
+
+CRM C#:
+c:\Test\PowerApps-Samples\cds\orgsvc\C#\FollowupPlugin\	
+C:\Test\PowerApps-Samples\cds\orgsvc\C#\WorkflowActivities
+
+JS:
+C:\Test\CRM\OrgServiceQuickStart\OrgServiceQuickStart\JavaScript\xraf_SampleFuntions.js
+
+C#:
+c:\Test\C#\Learn\Learn.sln
+
+7z.exe a Archive.7z C:\Folder\* -r -x!*.avi -x!*.flac	
+
+https://github.com/radu-antonache/WebAPI.git
+
+Git:
+@radu-antonache
+radu.antonache@gmail.com
+Default repository location: C:\Users\anton\Source\Repos
